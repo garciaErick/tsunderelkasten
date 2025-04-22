@@ -1,0 +1,13 @@
+---
+title: 💡 Thoughts - Death
+created: 2025-03-28
+dg-publish: false
+dg-show-local-graph: false
+description: 
+tags: 
+aliases: 
+isToc: false
+isRootNote: false
+parent: "[[💡 Thoughts]]"
+---
+* Aziz HAX$ Al-Yami died [[2025-03-24 Monday]], I don't know what happened but it struck me deeply. Maybe I should write more about this, it all feels too personal after what happened with [[👤 People - Nancy Vela]]. I thought I could be friends with him and I reached out we talked for a few years on off, on discord messages. I was one of the first people to know about how he tried to commit suicide while drunk and sent me a picture of his amputated leg. I though things might have turned out better for him. I do not know the cause of his death, it saddens me deeply and it is a world without empathy. I think there has been less and less empathy for heterosexual men.
